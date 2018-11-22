@@ -1,24 +1,15 @@
-# README
+# Online Store
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a Ruby on Rails Project. 
 
-Things you may want to cover:
+Features:
 
-* Ruby version
+* View items 
 
-* System dependencies
+* Add items to cart
 
-* Configuration
+* Show cart and whatever in cart at left side of window
 
-* Database creation
+* Edit/delete items in cart 
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Pay via cash/credit card/voucher/check
